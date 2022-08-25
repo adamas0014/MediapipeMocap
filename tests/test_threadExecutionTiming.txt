@@ -1,0 +1,9 @@
+---
+Thread Execution Test, date = 2022-08-25 13:52:58.738299
+Thread Name: parsingThread, Execution Time: 0.6684090000000005
+Thread Name: processingThread, Execution Time: 0.2626411000000015
+Thread Name: overlayThread, Execution Time: 0.001125399999999388
+Thread Name: displayThread, Execution Time: 0.01725240000000028
+
+END
+
